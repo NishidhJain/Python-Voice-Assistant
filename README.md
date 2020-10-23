@@ -6,4 +6,4 @@ Can open google and search
 Tells current time
 Can open YouTube and search
 
-In this project, I have used Tkinter for GUI part
+In this project, I have used Tkinter for GUI part.
